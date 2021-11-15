@@ -2,12 +2,24 @@
     <string name="app_name">coalshastra</string>
     <array name="coal_Type">
         <item>Thermal Coal</item>
+        <item>Coking Coal</item>
+        <item>PET Coke</item>
+        <item>Metallurgical Coke</item>
+        <item>Bio Coal/Waste</item>
     </array>
     <array name="Payment_term">
         <item>Cash and Carry</item>
+        <item>Advance</item>
+        <item>Credit</item>
+        <item>Letter of Credit</item>
     </array>
     <array name="No_of_days">
         <item>2 Days</item>
+        <item>1 Days</item>
+        <item>1 Hour</item>
+        <item>2 Hour</item>
+        <item>4 Hour</item>
+        <item>8 Hour</item>
     </array>
     <array name="mine_name">
         <item>Ambey Mining Pvt. Ltd.</item>
