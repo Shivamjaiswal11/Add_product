@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">coalshastra</string>
+    <array name="coal_Type">
+        <item>Thermal Coal</item>
+    </array>
+    <array name="Payment_term">
+        <item>Cash and Carry</item>
+    </array>
+    <array name="No_of_days">
+        <item>2 Days</item>
+    </array>
+    <array name="mine_name">
+        <item>Ambey Mining Pvt. Ltd.</item>
+    </array>
+</resources>
